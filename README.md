@@ -7,8 +7,16 @@
 </strong>
 </div>
 
-### 🎓 Education:  
-&emsp; 🏫 KPFU - ITIS  
+### 🎓 Education: 
+&emsp; 📊 **MSU** - EDA (Exploratory Data Analysis) 
+<br>&nbsp;<br>
+&emsp; 📊 **MSU** - Financial Analytics 
+<br>&nbsp;<br>
+&emsp; 🔹 **VTB** - Academy of Data-Driven Banking and Algorithmic Financial Modeling Bootcamp	
+<br>&nbsp;<br>
+&emsp; 🏫 **KPFU** - ITIS  (Institute of Information Technologies and Information Systems)
+<br>&nbsp;<br>
+&emsp; 🏫 **KPFU** - Data Management Platform Engineering
 
 ## 🛠️ Tech Stack:
 
